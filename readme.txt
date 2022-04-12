@@ -4,3 +4,4 @@ git has a mutable index called stage.
 git tracks changes
 123my stupid boss still prefers SW
 123creating a new branch is quick and simple.
+
